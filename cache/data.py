@@ -205,13 +205,13 @@ RAID = [
 ]
 
 
-GRP = "@WORLD_ALPHA"
+GRP = "@waifexanime"
 
-GROUP = [-1002094067251]
+GROUP = [-1002119873436]
 
 VERIFIED_USERS = [6730956183]
 
-Owners = "@ll_ALPHA_BABY_lll|@II_RAJA_BABU_II"
+Owners = "@queen143np|@iam_amane"
 
 PORN = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
